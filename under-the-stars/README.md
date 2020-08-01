@@ -12,7 +12,7 @@ From their webpage: *With its remote setting and limited light pollution, [Broem
 Arrive at [sunset](https://www.timeanddate.com/sun/usa/st-louis).
 
 | Date | Sunset |
------------------
+|---|---|
 | August 1 | 8:10 pm |
 | September 1 | 7:29 pm |
 | October 1 | 6:42 PM |
