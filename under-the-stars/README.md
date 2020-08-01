@@ -17,4 +17,6 @@ Arrive at [sunset](https://www.timeanddate.com/sun/usa/st-louis).
 | September 1 | 7:29 pm |
 | October 1 | 6:42 pm |
 
+## [Star Chart](https://skyandtelescope.org/interactive-sky-chart/)
 
+## Objects to View
