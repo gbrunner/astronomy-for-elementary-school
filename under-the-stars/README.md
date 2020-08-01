@@ -15,6 +15,6 @@ Arrive at [sunset](https://www.timeanddate.com/sun/usa/st-louis).
 |---|---|
 | August 1 | 8:10 pm |
 | September 1 | 7:29 pm |
-| October 1 | 6:42 PM |
+| October 1 | 6:42 pm |
 
 
